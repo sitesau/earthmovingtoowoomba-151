@@ -1,0 +1,22 @@
+{
+  "wheel_id": 749,
+  "structure": "umbrella",
+  "slug": "earthmovingtoowoomba-151",
+  "project": "excavation-contractors-toowoomba-bca8e4ef69cd83e96ad593de80f054",
+  "parent_t1_ref": "earthmovingtoowoomba-007",
+  "node_role": "buffer",
+  "money_target": "earthmovingtoowoomba.com.au",
+  "primary_kw": "excavation contractors toowoomba",
+  "intended_url": "https://sites-e470-2.web.app/excavation-contractors-toowoomba-bca8e4ef69cd83e96ad593de80f054/",
+  "tier": "T2",
+  "writeback_nonce": "59bda7947a21ff63",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/excavation-contractors-toowoomba/",
+      "anchor": "Excavation Contractors Toowoomba: Practical Site Brief Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
